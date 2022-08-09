@@ -27,6 +27,9 @@
     "content": "",
     "website": "resstr-001-geographic-information-system-gis-tutorial"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Tutorial Videos"
+  ],
   "site_uid": "80865953-144b-4d0f-8ff3-8ebcb2e8a29e"
 }
