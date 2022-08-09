@@ -1,0 +1,32 @@
+{
+  "term": "January IAP",
+  "year": "2022",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1273476c-a3f6-e250-0a53-2d91aea619fd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "resstr-001-geographic-information-system-gis-tutorial"
+  },
+  "course_title": "Geographic Information System (GIS) Tutorial",
+  "course_description": "",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STR-001",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "resstr-001-geographic-information-system-gis-tutorial"
+  },
+  "learning_resource_types": [],
+  "site_uid": "80865953-144b-4d0f-8ff3-8ebcb2e8a29e"
+}
