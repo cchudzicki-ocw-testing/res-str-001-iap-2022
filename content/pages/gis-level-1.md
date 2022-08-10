@@ -21,8 +21,16 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 {{% resource_link "330e8ac2-0b36-441e-833c-9789a343a7c3" "GIS Level 1 Instructions (PDF)" %}} {{% resource_link "ed903a1b-d628-4f5c-9850-aa9ecc1e66a7" "(DOCX)" %}}
 
-### Exercises
+### Workshop Exercises
 
 {{% resource_link "4ac5a965-ef1c-4911-8162-8502dbdcee3a" "QGIS Exercises (PDF)" %}}
 
 {{% resource_link "a6371f4a-c01d-4c9c-81cc-ae934c280cad" "ArcGISPro Exercises (PDF)" %}}
+
+### Take-Home Exercises
+
+{{% resource_link "f5f1e8bf-8c8b-4109-abbb-86ff1581aada" "QGIS Take-Home Exercise (PDF)" %}}
+
+{{% resource_link "23e463b5-6d52-4a3a-bfdd-1f5e716d2056" "ArcGIS Pro Take-Home Exercise (PDF)" %}}
+
+### Data
