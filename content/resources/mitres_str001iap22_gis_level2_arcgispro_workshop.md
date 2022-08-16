@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level2_ArcGISPro_workshop.docx
+title: GIS Level 2 ArcGIS Workshop Exercises (DOCX)
 uid: fbe0a0c6-eb4e-4b25-97d0-14315e321d3d
 video_files:
   video_captions_file: ''
