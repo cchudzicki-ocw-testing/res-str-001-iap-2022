@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level1_QGIS_exercises.pdf
+title: GIS Level 1 QGIS Workshop Exercises (PDF)
 uid: 4ac5a965-ef1c-4911-8162-8502dbdcee3a
 video_files:
   video_captions_file: ''
