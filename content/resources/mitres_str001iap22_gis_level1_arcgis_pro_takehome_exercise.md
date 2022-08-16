@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level1_ArcGIS_pro_takehome_exercise.pdf
+title: GIS Level 1 ArcGIS Pro Takehome Exercises (PDF)
 uid: 23e463b5-6d52-4a3a-bfdd-1f5e716d2056
 video_files:
   video_captions_file: ''
