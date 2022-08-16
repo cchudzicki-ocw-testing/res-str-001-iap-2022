@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 2 ArcGIS Workshop Exercises (DOCX)
+title: GIS Level 2 ArcGIS Pro Workshop Exercises (DOCX)
 uid: fbe0a0c6-eb4e-4b25-97d0-14315e321d3d
 video_files:
   video_captions_file: ''
