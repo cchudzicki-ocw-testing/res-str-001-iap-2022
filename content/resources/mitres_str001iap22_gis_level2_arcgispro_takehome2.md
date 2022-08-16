@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level2_ArcGISPro_takehome.docx
+title: GIS Level2 ArcGISPro Take-Home Exercises (PDF)
 uid: b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a
 video_files:
   video_captions_file: ''
