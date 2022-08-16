@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level2 ArcGISPro Take-Home Exercises (PDF)
+title: GIS Level 2 ArcGISPro Take-Home Exercises (PDF)
 uid: b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a
 video_files:
   video_captions_file: ''
