@@ -25,6 +25,9 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 {{% resource_link "c1c196df-f9e3-4884-a3ac-6a4dae39144c" "GIS Level 2 QGIS Take-Home Exercises (PDF)" %}} {{% resource_link "c66c52a6-f7f1-447c-8db8-2d619eede477" "(DOCX)" %}}
 
- 
+{{% resource_link "9d4fee25-0094-481e-ac13-09293e6fa1eb" "GIS Level 2 ArcGIS Pro Takehome Exercises (PDF)" %}} {{% resource_link "b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a" "(DOCX)" %}}
 
 ### Data
+
+{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP)" %}}  
+This .zip file contains 2 .txt, 9 .shx, 9 .shp, 7 .sbx, 6 .sbn, 9 .prj, 1 .gal, 10 .dbf, 8 .cpg, 8 .xml, 2 .ovr, 2 .tif, and 3 .tfw files.
