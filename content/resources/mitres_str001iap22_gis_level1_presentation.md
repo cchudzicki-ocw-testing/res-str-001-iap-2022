@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level1_presentation.pdf
+title: GIS Level 1 Presentation (PDF)
 uid: 0077d574-de6c-427c-be6a-f5e8b770f472
 video_files:
   video_captions_file: ''
