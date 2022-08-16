@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level2_instructions.pdf
+title: GIS Level 2 Instructions (PDF)
 uid: c8a40ca9-5e4d-485b-a03b-10f6cf1eed8a
 video_files:
   video_captions_file: ''
