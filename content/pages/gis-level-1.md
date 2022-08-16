@@ -4,7 +4,7 @@ description: Learn how to read and interpret maps and data and use basic cartogr
   principles to create maps that can be used in reports and presentations. After learning
   basics concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
 draft: false
-title: GIS Level 1
+title: 'GIS Level 1: Introduction to GIS & Mapping'
 uid: d70535ce-04a1-4b12-897f-cf6f3c3a5752
 ---
 Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basics concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
