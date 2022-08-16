@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level1_QGIS_takehome_Exercise.docx
+title: GIS Level 1 QGIS Takehome Exercises (DOCX)
 uid: 3ead7d3c-c090-424d-bca6-43a964f0ef2a
 video_files:
   video_captions_file: ''
