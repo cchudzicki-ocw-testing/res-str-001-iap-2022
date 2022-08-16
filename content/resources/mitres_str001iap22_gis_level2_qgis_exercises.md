@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level2_QGIS_exercises.docx
+title: GIS Level 2 QGIS Workshop Exercises (DOCX)
 uid: a421f8c4-0f19-42f7-9756-cf5f35f477ca
 video_files:
   video_captions_file: ''
