@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level1_presentation.pptx
+title: GIS Level 1 QGIS Presentation (PPTX)
 uid: af3004b5-f788-43eb-9fd5-59c1ffc7f961
 video_files:
   video_captions_file: ''
