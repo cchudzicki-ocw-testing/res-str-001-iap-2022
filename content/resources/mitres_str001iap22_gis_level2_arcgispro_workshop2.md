@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 2 ArcGIS Workshop Exercises (PDF)
+title: GIS Level 2 ArcGIS Pro Workshop Exercises (PDF)
 uid: c6507449-b99d-46fd-bfed-995518486117
 video_files:
   video_captions_file: ''
