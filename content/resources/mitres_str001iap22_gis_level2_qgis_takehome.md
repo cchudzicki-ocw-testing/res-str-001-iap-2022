@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level2 QGIS Take-Home Exercises (DOCX)
+title: GIS Level 2 QGIS Take-Home Exercises (DOCX)
 uid: c66c52a6-f7f1-447c-8db8-2d619eede477
 video_files:
   video_captions_file: ''
