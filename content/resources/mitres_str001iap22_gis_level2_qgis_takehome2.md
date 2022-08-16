@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level2 QGIS Take-Home Exercises (PDF)
+title: GIS Level 2 QGIS Take-Home Exercises (PDF)
 uid: c1c196df-f9e3-4884-a3ac-6a4dae39144c
 video_files:
   video_captions_file: ''
