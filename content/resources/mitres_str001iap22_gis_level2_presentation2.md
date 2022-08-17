@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_GIS_Level2_presentation.pptx
+title: 'GIS Level 2: Introduction to Spatial Analysis with Presenter''s Notes (PPTX)'
 uid: 16a2875e-a4db-4d59-9214-36ce15fafdbb
 video_files:
   video_captions_file: ''
