@@ -11,6 +11,12 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 ### Presentation
 
+{{% resource_link "178633ec-384b-4911-89fe-7017b26b8d41" "GIS Level 2: Introduction to Spatial Analysis Slides (PDF)" %}}
+
+{{% resource_link "16a2875e-a4db-4d59-9214-36ce15fafdbb" "GIS Level 2: Introduction to Spatial Analysis with Presenter's Notes (PPTX)" %}}
+
+{{% resource_link "235ce5cf-5667-46ce-8f5d-63ae2009aa98" "GIS Level 2: Introduction to Spatial Analysis Printable Slides with Presenter's Notes (PDF)" %}}
+
 ### Introduction and Setup
 
 {{% resource_link "c8a40ca9-5e4d-485b-a03b-10f6cf1eed8a" "GIS Level 2 Instructions (PDF)" %}} {{% resource_link "f64f76ee-e28c-49ea-b46b-895e6c29e1e4" "(DOCX)" %}}
@@ -29,5 +35,5 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 ### Data
 
-{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP)" %}}  
+{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP)" %}}   
 This .zip file contains 2 .txt, 9 .shx, 9 .shp, 7 .sbx, 6 .sbn, 9 .prj, 1 .gal, 10 .dbf, 8 .cpg, 8 .xml, 2 .ovr, 2 .tif, and 3 .tfw files.
