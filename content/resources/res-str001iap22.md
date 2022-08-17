@@ -5,9 +5,11 @@ draft: false
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/res-str001iap22.png
 file_type: image/png
 image_metadata:
-  caption: ''
-  credit: ''
-  image-alt: ''
+  caption: Students learn to use two programs to generate maps. (Courtesy of U.S.
+    Energy Information Administration. Image is in the public domain.)
+  credit: Courtesy of U.S. Energy Information Administration. Image is in the public
+    domain.
+  image-alt: Map with colored dots.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
@@ -23,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+Students learn to use two programs to generate maps. (Courtesy of U.S. Energy Information Administration. Image is in the public domain.)
