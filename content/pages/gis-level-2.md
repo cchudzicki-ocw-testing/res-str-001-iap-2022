@@ -11,11 +11,11 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 ### Presentation
 
-{{% resource_link "178633ec-384b-4911-89fe-7017b26b8d41" "GIS Level 2: Introduction to Spatial Analysis Slides (PDF - 6.8MB)" %}}
+{{% resource_link "178633ec-384b-4911-89fe-7017b26b8d41" "GIS Level 2: Introduction to Spatial Analysis Slides (PDF - 5MB)" %}}
 
-{{% resource_link "16a2875e-a4db-4d59-9214-36ce15fafdbb" "GIS Level 2: Introduction to Spatial Analysis with Presenter's Notes (PPTX - 30.5MB)" %}}
+{{% resource_link "16a2875e-a4db-4d59-9214-36ce15fafdbb" "GIS Level 2: Introduction to Spatial Analysis with Presenter's Notes (PPTX - 19.4MB)" %}}
 
-{{% resource_link "235ce5cf-5667-46ce-8f5d-63ae2009aa98" "GIS Level 2: Introduction to Spatial Analysis Printable Slides with Presenter's Notes (PDF - 4.9MB)" %}}
+{{% resource_link "235ce5cf-5667-46ce-8f5d-63ae2009aa98" "GIS Level 2: Introduction to Spatial Analysis Printable Slides with Presenter's Notes (PDF - 4.7MB)" %}}
 
 ### Introduction and Setup
 
@@ -31,9 +31,9 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 {{% resource_link "c1c196df-f9e3-4884-a3ac-6a4dae39144c" "GIS Level 2 QGIS Take-Home Exercises (PDF)" %}} {{% resource_link "c66c52a6-f7f1-447c-8db8-2d619eede477" "(DOCX)" %}}
 
-{{% resource_link "9d4fee25-0094-481e-ac13-09293e6fa1eb" "GIS Level 2 ArcGIS Pro Takehome Exercises (PDF - 1MB)" %}} {{% resource_link "b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a" "(DOCX - 2.3MB)" %}}
+{{% resource_link "9d4fee25-0094-481e-ac13-09293e6fa1eb" "GIS Level 2 ArcGIS Pro Takehome Exercises (PDF)" %}} {{% resource_link "b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a" "(DOCX)" %}}
 
 ### Data
 
-{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP)" %}}    
+{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP - 57.9MB)" %}}     
 This .zip file contains 2 .txt, 9 .shx, 9 .shp, 7 .sbx, 6 .sbn, 9 .prj, 1 .gal, 10 .dbf, 8 .cpg, 8 .xml, 2 .ovr, 2 .tif, and 3 .tfw files.
