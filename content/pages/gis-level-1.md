@@ -2,12 +2,12 @@
 content_type: page
 description: Learn how to read and interpret maps and data and use basic cartography
   principles to create maps that can be used in reports and presentations. After learning
-  basics concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
+  basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
 draft: false
 title: 'GIS Level 1: Introduction to GIS & Mapping'
 uid: d70535ce-04a1-4b12-897f-cf6f3c3a5752
 ---
-Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basics concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
+Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.
 
 ### Presentation
 
@@ -25,7 +25,7 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 {{% resource_link "4ac5a965-ef1c-4911-8162-8502dbdcee3a" "QGIS Exercises (PDF)" %}} {{% resource_link "2ee4b7ba-e46d-4883-91b4-6753d842509c" "(DOCX)" %}}
 
-{{% resource_link "a6371f4a-c01d-4c9c-81cc-ae934c280cad" "ArcGISPro Exercises (PDF)" %}} {{% resource_link "4733be33-8fb5-47ac-bb6b-c3df2696d1f4" "(DOCX)" %}}
+{{% resource_link "a6371f4a-c01d-4c9c-81cc-ae934c280cad" "ArcGIS Pro Exercises (PDF)" %}} {{% resource_link "4733be33-8fb5-47ac-bb6b-c3df2696d1f4" "(DOCX)" %}}
 
 ### Take-Home Exercises
 
@@ -35,5 +35,5 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 ### Data
 
-{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}    
-This ZIP file contains: 2 .txt, 5 .shx, 5 .shp, 5 .prj, 6 .dbf, 5 .cpg, 1 .csv, 4 .xml, 1 .ovr, 1 .tif, 1 .tfw, 3 .sbx, and 3 .sbn files.
+{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}     
+This ZIP file contains 2 .txt, 5 .shx, 5 .shp, 5 .prj, 6 .dbf, 5 .cpg, 1 .csv, 4 .xml, 1 .ovr, 1 .tif, 1 .tfw, 3 .sbx, and 3 .sbn files.
