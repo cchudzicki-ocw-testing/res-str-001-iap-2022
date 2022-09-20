@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level1_instructions.docx
+title: GIS Level 1 Instructions (DOCX)
 uid: 927c2151-947c-41ee-a742-09b82a20ec75
 video_files:
   video_captions_file: ''
