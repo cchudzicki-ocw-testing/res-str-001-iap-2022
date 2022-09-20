@@ -35,5 +35,5 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 ### Data
 
-{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP - 57.9MB)" %}}      
+{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP - 57.9MB)" %}}       
 This .zip file contains 2 .txt, 9 .shx, 9 .shp, 7 .sbx, 6 .sbn, 9 .prj, 1 .gal, 10 .dbf, 8 .cpg, 8 .xml, 2 .ovr, 2 .tif, and 3 .tfw files.
