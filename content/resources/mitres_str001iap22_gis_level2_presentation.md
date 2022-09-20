@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: true
+draft: false
 file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_presentation.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'GIS Level 2: Introduction to Spatial Analysis Slides (PDF)'
+title: 'DELETE GIS Level 2: Introduction to Spatial Analysis Slides (PDF)'
 uid: 178633ec-384b-4911-89fe-7017b26b8d41
 video_files:
   video_captions_file: ''
