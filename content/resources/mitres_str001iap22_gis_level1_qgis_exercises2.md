@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_qgis_exercises2.docx
+draft: true
+file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_qgis_exercises2.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 1 QGIS Workshop Exercises (DOCX)
+title: DELETE GIS Level 1 QGIS Workshop Exercises (DOCX)
 uid: 2ee4b7ba-e46d-4883-91b4-6753d842509c
 video_files:
   video_captions_file: ''
