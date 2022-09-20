@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_presentation_iap2022_notes.pdf
+draft: true
+file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_presentation_iap2022_notes.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 1 Presentation Notes (PDF)
+title: DELETE GIS Level 1 Presentation Notes (PDF)
 uid: 0abf95b3-0570-4e69-a29f-3f6046b83b69
 video_files:
   video_captions_file: ''
