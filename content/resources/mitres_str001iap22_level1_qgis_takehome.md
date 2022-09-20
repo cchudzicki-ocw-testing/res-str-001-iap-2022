@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level1_QGIS_takehome.pdf
+title: GIS Level 1 QGIS Take-Home Exercises (PDF)
 uid: 63cc5b51-f928-40c2-b87f-d3e01e177852
 video_files:
   video_captions_file: ''
