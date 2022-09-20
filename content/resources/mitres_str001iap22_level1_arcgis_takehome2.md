@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level1_ArcGIS_takehome.docx
+title: GIS Level 1 ArcGIS Pro Take-Home Exercises (DOCX)
 uid: 05aa034f-f2e2-431e-ad4f-569a1738592a
 video_files:
   video_captions_file: ''
