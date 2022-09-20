@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_qgis_exercises.pdf
+draft: true
+file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_qgis_exercises.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -12,7 +12,7 @@ learning_resource_types:
 - Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 2 QGIS Workshop Exercises (PDF)
+title: DELETE GIS Level 2 QGIS Workshop Exercises (PDF)
 uid: 672e0d41-3074-44a5-90b5-8ca6eb21363a
 video_files:
   video_captions_file: ''
