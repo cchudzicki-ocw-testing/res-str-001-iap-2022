@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_qgis_takehome_exercise.pdf
+draft: true
+file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_qgis_takehome_exercise.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 1 QGIS Takehome Exercises (PDF)
+title: DELETE GIS Level 1 QGIS Takehome Exercises (PDF)
 uid: f5f1e8bf-8c8b-4109-abbb-86ff1581aada
 video_files:
   video_captions_file: ''
