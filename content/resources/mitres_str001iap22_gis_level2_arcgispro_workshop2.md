@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_arcgispro_workshop2.pdf
+draft: true
+file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_arcgispro_workshop2.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: GIS Level 2 ArcGIS Pro Workshop Exercises (PDF)
+title: DELETE GIS Level 2 ArcGIS Pro Workshop Exercises (PDF)
 uid: c6507449-b99d-46fd-bfed-995518486117
 video_files:
   video_captions_file: ''
