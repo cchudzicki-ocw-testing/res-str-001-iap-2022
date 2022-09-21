@@ -35,5 +35,5 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 ### Data
 
-{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}         
+{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}          
 This ZIP file contains 2 .txt, 5 .shx, 5 .shp, 5 .prj, 6 .dbf, 5 .cpg, 1 .csv, 4 .xml, 1 .ovr, 1 .tif, 1 .tfw, 3 .sbx, and 3 .sbn files.
