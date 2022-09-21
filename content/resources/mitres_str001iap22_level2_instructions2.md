@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level2_instructions.pdf
+title: GIS Level 2 Instructions (PDF)
 uid: 63180f7d-efe7-4f23-8092-9b63d1391aa2
 video_files:
   video_captions_file: ''
