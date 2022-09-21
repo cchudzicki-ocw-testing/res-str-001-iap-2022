@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level2_ArcGISPro.docx
+title: GIS Level 2 ArcGIS Pro Workshop Exercises (DOCX)
 uid: b3bc6ccb-b766-4781-9217-0cd424096e12
 video_files:
   video_captions_file: ''
