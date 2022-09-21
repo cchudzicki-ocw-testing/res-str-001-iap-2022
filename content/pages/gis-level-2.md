@@ -11,29 +11,29 @@ Expand your experience with desktop GIS software and learn how to use analysis t
 
 ### Presentation
 
-{{% resource_link "178633ec-384b-4911-89fe-7017b26b8d41" "GIS Level 2: Introduction to Spatial Analysis Slides (PDF - 5MB)" %}}
+{{% resource_link "7274a19e-c4ee-42b6-8ab5-f36864863e13" "GIS Level 2: Introduction to Spatial Analysis Presentation Slides (PDF)" %}}
 
-{{% resource_link "16a2875e-a4db-4d59-9214-36ce15fafdbb" "GIS Level 2: Introduction to Spatial Analysis with Presenter's Notes (PPTX - 19.4MB)" %}}
+{{% resource_link "0c378e6c-fa36-4190-acc6-f6db68dbc032" "GIS Level 2: Introduction to Spatial Analysis Presentation (PPTX)" %}}
 
-{{% resource_link "235ce5cf-5667-46ce-8f5d-63ae2009aa98" "GIS Level 2: Introduction to Spatial Analysis Printable Slides with Presenter's Notes (PDF - 4.7MB)" %}}
+{{% resource_link "f5c1737d-e8eb-4b05-8904-7fdd044d2ee7" "GIS Level 2: Introduction to Spatial Analysis Printable Slides with Notes (PDF)" %}}
 
 ### Introduction and Setup
 
-{{% resource_link "c8a40ca9-5e4d-485b-a03b-10f6cf1eed8a" "GIS Level 2 Instructions (PDF)" %}} {{% resource_link "f64f76ee-e28c-49ea-b46b-895e6c29e1e4" "(DOCX)" %}}
+{{% resource_link "63180f7d-efe7-4f23-8092-9b63d1391aa2" "GIS Level 2 Instructions (PDF)" %}} {{% resource_link "c74ccc7c-ec5f-4ab9-8eab-56dc97da5785" "(DOCX)" %}}
 
 ### Workshop Exercises
 
-{{% resource_link "672e0d41-3074-44a5-90b5-8ca6eb21363a" "GIS Level 2 QGIS Workshop Exercises (PDF)" %}} {{% resource_link "a421f8c4-0f19-42f7-9756-cf5f35f477ca" "(DOCX)" %}}
+{{% resource_link "741f56ac-e4ad-4d75-b7d3-1ee1bd7811a2" "GIS Level 2 QGIS Workshop Exercises (PDF)" %}} {{% resource_link "5e9ec885-0832-4cff-8525-9eb7a7965fa1" "GIS Level 2 QGIS Workshop Exercises (DOCX)" %}}
 
-{{% resource_link "c6507449-b99d-46fd-bfed-995518486117" "GIS Level 2 ArcGIS Workshop Exercises (PDF)" %}} {{% resource_link "fbe0a0c6-eb4e-4b25-97d0-14315e321d3d" "(DOCX)" %}}
+{{% resource_link "4a2ec068-3b96-4686-8aee-989c6ae584c4" "GIS Level 2 ArcGIS Pro Workshop Exercises (PDF)" %}} {{% resource_link "b3bc6ccb-b766-4781-9217-0cd424096e12" "GIS Level 2 ArcGIS Pro Workshop Exercises (DOCX)" %}}
 
 ### Take-Home Exercises
 
-{{% resource_link "c1c196df-f9e3-4884-a3ac-6a4dae39144c" "GIS Level 2 QGIS Take-Home Exercises (PDF)" %}} {{% resource_link "c66c52a6-f7f1-447c-8db8-2d619eede477" "(DOCX)" %}}
+{{% resource_link "8f80fa62-0a0e-42db-a1df-be68ae526037" "GIS Level 2 QGIS Take-Home Exercises (PDF)" %}} {{% resource_link "f4284550-e724-4b93-8eba-d31f734db6ca" "GIS Level 2 QGIS Take-Home Exercises (DOCX)" %}}
 
-{{% resource_link "9d4fee25-0094-481e-ac13-09293e6fa1eb" "GIS Level 2 ArcGIS Pro Take-Home Exercises (PDF)" %}} {{% resource_link "b4a03654-9c9d-44ba-aca3-ccfd0b8c8a7a" "(DOCX)" %}}
+ 
 
 ### Data
 
-{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP - 57.9MB)" %}}       
+{{% resource_link "77f56260-b095-4401-bf7f-a56ec9ed45b9" "GIS Level 2 Data (ZIP - 57.9MB)" %}}        
 This .zip file contains 2 .txt, 9 .shx, 9 .shp, 7 .sbx, 6 .sbn, 9 .prj, 1 .gal, 10 .dbf, 8 .cpg, 8 .xml, 2 .ovr, 2 .tif, and 3 .tfw files.
