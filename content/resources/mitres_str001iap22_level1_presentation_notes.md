@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level1_presentation_notes.pdf
+title: GIS Level 1 Presentation Slides with Notes (PDF)
 uid: a5b17d6a-9218-4ec8-ab17-357a60c7f22a
 video_files:
   video_captions_file: ''
