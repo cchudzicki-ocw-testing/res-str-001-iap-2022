@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MITRES_STR001IAP22_Level2_QGIS.docx
+title: GIS Level 2 QGIS Workshop Exercises (DOCX)
 uid: 5e9ec885-0832-4cff-8525-9eb7a7965fa1
 video_files:
   video_captions_file: ''
