@@ -21,8 +21,6 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 {{% resource_link "5741f0e9-86f2-4801-97bf-d32da98d2420" "GIS Level 1 Instructions (PDF)" %}} {{% resource_link "927c2151-947c-41ee-a742-09b82a20ec75" "(DOCX)" %}}
 
-{{% resource_link "5741f0e9-86f2-4801-97bf-d32da98d2420" "GIS Level 1 Instructions (PDF)" %}}
-
 ### Workshop Exercises
 
 {{% resource_link "c2be3173-6eaf-4da9-9e54-fff4499f68a6" "GIS Level 1 QGIS Workshop Exercises (PDF)" %}} {{% resource_link "2defd820-2cea-48fb-ae9d-e4be340b5a9c" "(DOCX)" %}}
@@ -37,5 +35,5 @@ Learn how to read and interpret maps and data and use basic cartography principl
 
 ### Data
 
-{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}        
+{{% resource_link "6d1c3419-c98d-416d-9701-c07311a880b0" "GIS Level 1 Data (ZIP)" %}}         
 This ZIP file contains 2 .txt, 5 .shx, 5 .shp, 5 .prj, 6 .dbf, 5 .cpg, 1 .csv, 4 .xml, 1 .ovr, 1 .tif, 1 .tfw, 3 .sbx, and 3 .sbn files.
