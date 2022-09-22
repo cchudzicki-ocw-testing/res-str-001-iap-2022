@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_arcgis_pro_takehome_exercise.pdf
+file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level1_arcgis_pro_takehome_exercise.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

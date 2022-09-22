@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /courses/res.str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_presentation.pptx
+file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_gis_level2_presentation.pptx
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
   caption: ''
