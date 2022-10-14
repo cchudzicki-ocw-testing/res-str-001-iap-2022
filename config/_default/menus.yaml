@@ -7,3 +7,7 @@ leftnav:
   name: GIS Level 2 Workshop
   url: /pages/gis-level-2
   weight: 20
+- identifier: dbc13dbd-b4f9-41c2-bb10-497508a67580
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
