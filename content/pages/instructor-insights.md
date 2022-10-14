@@ -40,39 +40,14 @@ None; the GIS Tutorial is a noncredit workshop.![](/images/educator/icon-questio
 
 Every year during the [Independent Activities Period (IAP)](http://catalog.mit.edu/mit/undergraduate-education/academic-research-options/independent-activities-period/)
 
-## Student Information
-
-### Enrollment
-
-In the Fall 2018 semester, enrollment was 18 students, an increase from 7–12 students in previous years
-
-### Breakdown by Year
-
-First-year students
-
-### Breakdown by Major
-
-Mostly prospective math majors, some prospective computer science majors
-
-### Typical Student Background
-
-Most students have previous experience with math competitions and camps from high school
-
-{{< anchor "studenttime" >}}{{< /anchor >}}
-
 ## How Student Time Was Spent
 
-During an average week, students were expected to spend 6 hours on the course, roughly divided as follows:
+For each level of the tutorial, students typically spend a total of 3 to 4 hours learning and practicing GIS skills.
 
 ### In Class
 
-- Met 2 times per week for 1 hour per session; 26 sessions total; mandatory attendance
-- First session each week: usually a lecture, delivered by an upper-level undergraduate
-- Second session each week: student presentations of solutions to homework problems
-- Last five class sessions: student presentations of solutions to past Putnam Competition problems and to student-created Putnam-type problems
+- The tutorial was taught as a single 2–2.5 hour live session that included a presentation and workshop exercises.
 
 ### Out of Class
 
-- Completion of at least 6 problems each week, drawing on the week’s topic-based problem sets and sets of supplementary problems
-- Preparation for in-class presentations
-- Preparation for Putnam Competition
+- Students were given at-home exercises to complete on their own.
