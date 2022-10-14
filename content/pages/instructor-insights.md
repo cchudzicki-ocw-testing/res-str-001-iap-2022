@@ -46,7 +46,7 @@ For each level of the tutorial, students typically spend a total of 3 to 4 hours
 
 ### In Class
 
-- The tutorial was taught as a single 2–2.5 hour live session that included a presentation and workshop exercises.
+- Each of the two levels of the tutorial was taught as a single 2–2.5 hour live session that included a presentation and workshop exercises.
 
 ### Out of Class
 
